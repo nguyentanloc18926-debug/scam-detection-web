@@ -144,7 +144,7 @@ st.sidebar.markdown("---")
 st.sidebar.caption("🔒 Hệ thống tích hợp mô hình Machine Learning kết hợp giải thuật kiểm tra liên kết URL.")
 
 # 4. Giao diện Tab chính
-tab_user, tab_dev = st.tabs(["🔍 Trung Tâm Phân Tích", "📊 Báo Cáo Kỹ Thuật (Giảng Viên)"])
+tab_user, tab_dev = st.tabs(["🔍 Trung Tâm Phân Tích", "📊 Báo Cáo Kỹ Thuật "])
 
 with tab_user:
     st.title("🛡️ Cổng Kiểm Tra & Phát Hiện Lừa Đảo")
